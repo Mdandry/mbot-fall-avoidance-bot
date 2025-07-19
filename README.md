@@ -1,6 +1,11 @@
 # mbot-fall-avoidance-bot
 
-This repository documents my custom build and configuration of the mBot robot (Makeblock). It includes code, wiring diagrams, parts lists, and build notes from a project I completed a couple years ago.
+This repository documents my custom build and configuration of the mBot robot (Makeblock). 
+It includes code, wiring diagrams, parts lists, and build notes from a project I completed a 
+in January 2022.
+
+## 📹 Demo Video
+ https://youtube.com/shorts/iCq3ptCfQ_0?si=oO2sXKEw_RP0JCKW
 
 ---
 
