@@ -25,8 +25,8 @@ The project includes:
 - Base: Makeblock mBot
 - Microcontroller: mCore (Arduino-compatible)
 - Motors: 2x DC geared motors
-- Sensors: [Ultrasonic - 3x]
-- Power: [battery pack or USB]
+- Sensors: Ultrasonic - 3x
+- Power: 4x AA 
 
 ---
 
